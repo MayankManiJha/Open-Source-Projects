@@ -2,7 +2,11 @@
 This repo is open for all
 
 
+All the Projects Listed here are open source and can be downlaoded for free for learning purposes, there is no charge or anything to make modificaitons to the code offline.
 
-This Project is a simple conversion of RE framework from UiPath to Python, it is open for all to learn. 
 
-Do let me know in case you want to discuss the details or anything technical related to this project.
+Keep developing and keep contributing.
+
+
+
+Developed By-- Mayank Mani Jha =)
